@@ -59,7 +59,7 @@ export default [
             'quotes': ['error', 'single'],
             'semi': ['error', 'always'],
             'object-curly-spacing': ['error', 'always'],
-            'object-property-newline': ['warn', { 'allowAllPropertiesOnSameLine': true }],
+            'object-property-newline': ['warn', { allowAllPropertiesOnSameLine: true }],
             'comma-dangle': ['warn', 'always-multiline'],
             'eol-last': ['error', 'always'],
             'linebreak-style': ['error', 'unix'],
