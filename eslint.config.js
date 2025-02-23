@@ -37,6 +37,7 @@ export default [
                 'warn',
                 { allowConstantExport: true },
             ],
+            'react/jsx-no-useless-fragment': ['error', { allowExpressions: true }],
             'yoda': ['error', 'always'],
             'prefer-const': 'warn',
             'arrow-parens': ['error', 'always'],
