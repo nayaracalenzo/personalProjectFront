@@ -1,8 +1,30 @@
-# React + Vite
+## Personal Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto que fornece a estrutura responsável pela parte visual da aplicação e interação direta do usuário com base em React.js utilizando Vite 
 
-Currently, two official plugins are available:
+## Prototipação das telas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Se encontra em [text](https://www.figma.com/design/yiITkEx1V8DsWLppKeyiJY/Personal-Project?t=K4lvBC1S3f18Q1H9-1)
+
+## Tecnologias
+
+- JavaScript
+- React.js
+- Vite 
+- Tailwind
+
+## Instalação 
+
+Execute os comandos no terminal:
+
+- git clone [text](https://github.com/nayaracalenzo/personalProjectFront)
+
+- cd personalProjectFront
+
+- code .
+
+- npm i (para instalar as dependências)
+
+## Subindo o projeto no servidor 
+
+No terminal execute o comando *npm run dev* que permite o acesso através da URL do projeto em http://localhost:5173
