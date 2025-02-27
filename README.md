@@ -6,7 +6,10 @@ Este é um projeto que fornece a estrutura responsável pela parte visual da apl
 
 Se encontra em [https://www.figma.com/design/yiITkEx1V8DsWLppKeyiJY/Personal-Project?t=K4lvBC1S3f18Q1H9-1](https://www.figma.com/design/yiITkEx1V8DsWLppKeyiJY/Personal-Project?t=K4lvBC1S3f18Q1H9-1)
 
-## Projeto 
+## Projeto Backend
+
+[https://github.com/nayaracalenzo/personalProjectBack](https://github.com/nayaracalenzo/personalProjectBack)
+
 ## Tecnologias
 
 - JavaScript
