@@ -4,8 +4,9 @@ Este é um projeto que fornece a estrutura responsável pela parte visual da apl
 
 ## Prototipação das telas
 
-Se encontra em [text](https://www.figma.com/design/yiITkEx1V8DsWLppKeyiJY/Personal-Project?t=K4lvBC1S3f18Q1H9-1)
+Se encontra em [https://www.figma.com/design/yiITkEx1V8DsWLppKeyiJY/Personal-Project?t=K4lvBC1S3f18Q1H9-1](https://www.figma.com/design/yiITkEx1V8DsWLppKeyiJY/Personal-Project?t=K4lvBC1S3f18Q1H9-1)
 
+## Projeto 
 ## Tecnologias
 
 - JavaScript
@@ -17,14 +18,19 @@ Se encontra em [text](https://www.figma.com/design/yiITkEx1V8DsWLppKeyiJY/Person
 
 Execute os comandos no terminal:
 
-1. `git clone [text](https://github.com/nayaracalenzo/personalProjectFront) `
+1. `git clone https://github.com/nayaracalenzo/personalProjectFront`
 
 2. `cd personalProjectFront`
 
 3. `code .`
 
-4. `npm i` (para instalar as dependências)
+4. `npm i`
 
 ## Subindo o projeto no servidor 
 
 No terminal execute o comando `npm run dev` que permite o acesso através da URL do projeto em `http://localhost:5173`
+
+## Estrutura do Projeto
+
+![image](https://github.com/user-attachments/assets/f91a01bc-a01d-4422-bb7b-49af6ec4ba95)
+
