@@ -17,14 +17,14 @@ Se encontra em [text](https://www.figma.com/design/yiITkEx1V8DsWLppKeyiJY/Person
 
 Execute os comandos no terminal:
 
-- git clone [text](https://github.com/nayaracalenzo/personalProjectFront)
+1. `git clone [text](https://github.com/nayaracalenzo/personalProjectFront) `
 
-- cd personalProjectFront
+2. `cd personalProjectFront`
 
-- code .
+3. `code .`
 
-- npm i (para instalar as dependências)
+4. `npm i` (para instalar as dependências)
 
 ## Subindo o projeto no servidor 
 
-No terminal execute o comando *npm run dev* que permite o acesso através da URL do projeto em http://localhost:5173
+No terminal execute o comando `npm run dev` que permite o acesso através da URL do projeto em `http://localhost:5173`
